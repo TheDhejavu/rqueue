@@ -1,5 +1,5 @@
 # RQueue
-Bull-like job queue system in golang
+Reliable Job queue system in golang
 
 ## Queue instance 
 
