@@ -1,5 +1,8 @@
 # RQueue
-Reliable Job queue system in golang
+A Job queue system in golang that's easier to scale from multiple concurrent workers running within a queue to multiple instances or process of thesame queue. 
+
+E.G 
+Process 1 can deploy x Number of instance with x Number of concurrency go workers running. 
 
 ## Queue instance 
 
